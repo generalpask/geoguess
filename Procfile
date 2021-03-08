@@ -1,1 +1,1 @@
-web: yarn run lint && yarn run build
+web: yarn run start
